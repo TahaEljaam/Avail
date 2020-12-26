@@ -7,7 +7,6 @@ G: Phaser/Priority Siren
 Z: Left turn signal
 C: Right turn signal
 V: Flood Lights
-B: Change Camera
 N: Cruise Lights
 M: Parking Lights
 L: Lights (Highbeam/Lowbeam)
@@ -17,8 +16,15 @@ H: Airhorn
 P: Parking brake
 I: Camera zoom in
 O: Camera zoom out
-U: First person driving camera change
 W: Accelerate
 A: Left (Drive)
 S: Reverse/Brake
 D: Right (Drive)
+Q: Gear Shift Up
+E: Gear Shift Down
+LeftShift: Clutch
+
+Radar Controls:
+U: Activate
+B: Lock Speed
+Z: Increase volume
